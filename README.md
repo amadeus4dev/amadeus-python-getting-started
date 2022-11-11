@@ -4,8 +4,8 @@ With this repository you can make your first API call using the [Amadeus Python 
 
 ### Prerequisites
 
-Python 3.4+
-An [Amadeus for Developers](https://developers.amadeus.com) account
+- Python 3.4+
+- An [Amadeus for Developers](https://developers.amadeus.com) account
 
 
 ### How to run the project
